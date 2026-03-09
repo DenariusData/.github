@@ -1,33 +1,44 @@
 # Equipe Denarius Data
 
-Time formado para realizar os APIs (Aprendizagem por Projetos Integradores) da FATEC Profº Jessen Vidal (São José dos Campos, SP).
+<p align="center">
+Time formado para desenvolver os <b>APIs (Aprendizagem por Projetos Integradores)</b> da <b>FATEC Profº Jessen Vidal</b> — São José dos Campos (SP).
+</p>
+
+---
+
+# 📂 Projetos Desenvolvidos
 
 <div align="center">
 
-| Semestre | Projeto                                                                  | Empresa parceira                               | Descrição                                                                                                                                                                                                             | Repositórios                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| :------- | :----------------------------------------------------------------------- | :--------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-| 1º SEM   | [DenariusData](https://github.com/DenariusData/API-1sem)                |                                                             |Uma calculadora científica que possui uma interface de texto que acessa operações matemáticas e permite realizar mais de uma operação por execução. |
-| 2º SEM   | [DenariusData](https://github.com/DenariusData/API-2SEM)                |                                                             | Sistema de Avaliação PACER, sendo possível simplificar uma avaliação e garantir as integração de dados. |
-| 3º SEM   | [Altime](https://github.com/DenariusData/API-3SEM)                      | [Altave](https://altave.com.br/nossa-historia/)             | Sistema Altime para controle de ponto, sendo possível realizar cadastro de empresa e funcionário. | Frontend: <a href="https://github.com/DenariusData/DenariusData-Front/tree/main">Frontend</a> <br> Backend: <a href="https://github.com/DenariusData/DenariusData-Back/tree/main">Backend</a> <br> Docs: <a href="https://github.com/DenariusData/DenariusData-docs/tree/main">Docs</a> |
-| 4º SEM   | [Radarius](https://github.com/DenariusData/API-4SEM)           |  [Prefeitura-SJC](https://www.sjc.sp.gov.br/)                                                                      | Sistema de Alerta Automatizado e Interativo Por WhatsApp Para Auditoria Geral.                       |Frontend: <a href="https://github.com/DenariusData/API-4SEM-FRONTEND/tree/7c1a9b23f92f60d9688347a1c04a4177cdeef7e7">Frontend</a> <br> Backend: <a href="https://github.com/DenariusData/API-4SEM-BACKEND/tree/c697dede161cffd941ea834ba804afac023a163f">Backend</a> <br> Docs: <a href="https://github.com/DenariusData/API-4SEM/tree/main/docs">Docs</a> |
+| Semestre | Projeto | Empresa Parceira | Descrição | Repositórios |
+| :------- | :------ | :--------------- | :-------- | :----------- |
+| **1º SEM** | [DenariusData](https://github.com/DenariusData/API-1sem) | — | Calculadora científica com interface de texto capaz de executar múltiplas operações matemáticas em uma única execução. | — |
+| **2º SEM** | [DenariusData](https://github.com/DenariusData/API-2SEM) | — | Sistema de Avaliação PACER que simplifica o processo de avaliação e garante a integração dos dados coletados. | — |
+| **3º SEM** | [Altime](https://github.com/DenariusData/API-3SEM) | [Altave](https://altave.com.br/nossa-historia/) | Sistema para controle de ponto empresarial com cadastro de empresas e funcionários. | Frontend: <a href="https://github.com/DenariusData/DenariusData-Front/tree/main">Frontend</a> <br> Backend: <a href="https://github.com/DenariusData/DenariusData-Back/tree/main">Backend</a> <br> Docs: <a href="https://github.com/DenariusData/DenariusData-docs/tree/main">Docs</a> |
+| **4º SEM** | [Radarius](https://github.com/DenariusData/API-4SEM) | [Prefeitura-SJC](https://www.sjc.sp.gov.br/) | Sistema de alerta automatizado e interativo via WhatsApp para suporte à Auditoria Geral do município. | Frontend: <a href="https://github.com/DenariusData/API-4SEM-FRONTEND/tree/7c1a9b23f92f60d9688347a1c04a4177cdeef7e7">Frontend</a> <br> Backend: <a href="https://github.com/DenariusData/API-4SEM-BACKEND/tree/c697dede161cffd941ea834ba804afac023a163f">Backend</a> <br> Docs: <a href="https://github.com/DenariusData/API-4SEM/tree/main/docs">Docs</a> |
+| **5º SEM** | **Nexus** | **SIATT** | Plataforma analítica para integração e análise de dados estratégicos de projetos, consolidando informações de custos de materiais, horas de trabalho e histórico operacional para apoiar a tomada de decisão. | — |
+
 </div>
 
 ---
 
-## Integrantes da equipe e seus cargos em cada projeto
+# 👥 Integrantes da Equipe
 
 <div align="left">
 
-|    Função     | Nome                  | LinkedIn & GitHub |
-|---------------|-----------------------|-------------------|
-| Product Owner | Caio Osorio           | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-o-a67224200/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/User-Business) |
-| Scrum Master  | Beatriz Sthefanny     | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-santos-0b6773220/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/BeatrizSantos00) |
-| Dev Team      | Augusto Piatto        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-piatto/) [![Github](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/augustopiatto) |
-| Dev Team      | Davi Soares           | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dsf21/) [![Github](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/DaviSFS21) |
-| Dev Team      | João Paulista         | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulista/) [![Github](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/joaopaulista) |
-| Dev Team      | Rafael Slivka         | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lopes-slivka-07753326a/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/rafaslivka) |
-| Dev Team      | Tiago Bernardo        | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiagobernardosantos/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/TiagoBernardoSantos) |
-| Dev Team      | Tiago Torres          | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-torres-dos-reis/) [![Github](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/TiagoTReis)
-| Dev Team      | Victor Ryan           | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ryan-51738b261) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/yzvictorr) |
+| Função | Nome | LinkedIn & GitHub |
+|------|------|----------------|
+| **Product Owner** | Beatriz Sthefanny | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-santos-0b6773220/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/BeatrizSantos00) |
+| **Scrum Master** | Rafael Slivka | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lopes-slivka-07753326a/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/rafaslivka) |
+| **Dev Team** | Caio Osorio | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caio-o-a67224200/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/User-Business) |
+| **Dev Team** | Tiago Bernardo | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiagobernardosantos/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/TiagoBernardoSantos) |
+| **Dev Team** | Victor Ryan | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-ryan-51738b261) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/yzvictorr) |
+| **Dev Team** | Ali Mohamed Khodr | [![Linkedin](https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alimohamedkhodr/) [![GitHub](https://img.shields.io/badge/GitHub-111217?logo=github&logoColor=white)](https://github.com/alimkhodr) |
 
 </div>
+
+---
+
+<p align="center">
+Desenvolvido por <b>Denarius Data</b> • FATEC São José dos Campos
+</p>
